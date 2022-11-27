@@ -1,4 +1,5 @@
 import md from 'markdown-it';
+
 import {getAllPosts, getPostBySlug} from "../../lib/api";
 
 export async function getStaticPaths() {
