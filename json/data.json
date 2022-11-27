@@ -1,11 +1,12 @@
 {
   "work": [
     {
-      "title": "Example piece one",
-      "image": "https://placedog.net/500",
+      "title": "Animierte Kreditkarte",
+      "image": "/workimages/creditcard_for_portfolio.png",
       "year": 2022,
-      "category": "Dashboard",
-      "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+      "category": "CSS",
+      "description": "Pure HTML / CSS. Schöner 3d-Hover-Effekt.",
+      "link": "https://css-creditcard.vercel.app/"
     },
     {
       "title": "Example piece two",

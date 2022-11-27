@@ -17,7 +17,7 @@ export default function WorkPage({work}) {
         <div>
             <Head>
                 <title>Christophers Arbeit</title>
-                <meta name="description" content="Christophers letzte Projekte" />
+                <meta name="description" content="Meine letzten Projekte" />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
             <section className='px-6'>

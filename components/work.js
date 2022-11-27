@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 
 export default function Work({item}) {
     return (
@@ -8,14 +9,19 @@ export default function Work({item}) {
             </div>
             <div>
                 <h3 className='text-2xl mb-2 font-medium'>{item.title}</h3>
-                <span className='text-gray-600 mb-4 block'>
-                    <time className='bg-myblue-100 text-white px-5 py-1.5 mr-4 rounded-xl'>
+                <span className='text-gray-600 my-4 block'>
+                    <time className='px-2 py-1.5 mt-4 mr-4 rounded-xl border-solid border-myblue-100 border-2'>
                         {item.year}
                     </time>
-                    {item.category}
+                    Kategorie: {item.category}
                 </span>
                 <p>{item.description}</p>
+                <button className='bg-myblue-100 text-white px-5 py-1.5 mt-4 rounded drop-shadow-md hover:drop-shadow-xl duration-700 hover:scale-110'>
+                    <Link href={`${item.link}`}>
+                        <a target="_blank">Show me</a></Link>
+                </button>
             </div>
         </article>
     );
 }
+
