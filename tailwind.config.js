@@ -5,7 +5,13 @@ module.exports = {
     './components/**/*.{js,ts,jsx,tsx}',
   ],
   theme: {
-    extend: {},
+    extend:
+    {
+      fontFamily: {
+        poppins: ['Poppins', 'sans-serif'],
+        adelia: ["ADELIA", "cursive"],
+      },
+    },
   },
   plugins: [require('@tailwindcss/typography')],
  

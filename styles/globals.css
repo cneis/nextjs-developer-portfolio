@@ -2,6 +2,64 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 
+
+@font-face {
+    font-family: "ADELIA";
+    src: url("../public/fonts/ADELIA.otf");
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: "normal";
+    font-weight: 200;
+    font-display: swap;
+    src: url('../public/fonts/Poppins-ExtraLight.ttf');
+}
+@font-face {
+    font-family: 'Poppins';
+    font-style: "normal";
+    font-weight: 300;
+    font-display: swap;
+    src: url('../public/fonts/Poppins-Light.ttf');
+}
+@font-face {
+    font-family: 'Poppins';
+    font-style: "normal";
+    font-weight: 400;
+    font-display: swap;
+    src: url('../public/fonts/Poppins-Regular.ttf');
+}
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url('../public/fonts/Poppins-Medium.ttf') format('ttf');
+}
+@font-face {
+    font-family: 'Poppins';
+    font-style: "normal";
+    font-weight: 600;
+    font-display: swap;
+    src: url('../public/fonts/Poppins-SemiBold.ttf');
+}
+@font-face {
+    font-family: 'Poppins';
+    font-style: "normal";
+    font-weight: 700;
+    font-display: swap;
+    src: url('../public/fonts/Poppins-Bold.ttf');
+}
+@font-face {
+    font-family: 'Poppins';
+    font-style: "normal";
+    font-weight: 800;
+    font-display: swap;
+    src: url('../public/fonts/Poppins-ExtraBold.ttf');
+}
+
+
 h1, h2, h3, p, span, a {
     font-family: 'Poppins', sans-serif;
+    font-weight: 500;
 }
