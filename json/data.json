@@ -20,7 +20,7 @@
       "title": "API, Leaflet.js",
       "image": "/workimages/woistgurki_for_portfolio.png",
       "year": 2022,
-      "category": "Backend",
+      "category": "Backend, node.js",
       "description": "Abfrage einer Location-API und Darstellung der Daten mithilfe von Leaflet.js.",
       "link": "https://wo-ist-gurki-vercel.vercel.app/"
     },

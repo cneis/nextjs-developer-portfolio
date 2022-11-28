@@ -34,7 +34,7 @@
     font-style: normal;
     font-weight: 500;
     font-display: swap;
-    src: url('../public/fonts/Poppins-Medium.ttf') format('ttf');
+    src: url('../public/fonts/Poppins-Medium.ttf');
 }
 @font-face {
     font-family: 'Poppins';
@@ -63,3 +63,4 @@ h1, h2, h3, p, span, a {
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
 }
+
