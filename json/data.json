@@ -9,11 +9,28 @@
       "link": "https://css-creditcard.vercel.app/"
     },
     {
-      "title": "Example piece two",
-      "image": "https://placedog.net/500",
+      "title": "Blog in Next/Sanity",
+      "image": "/workimages/samtpfotenblog_for_portfolio.png",
       "year": 2022,
       "category": "Backend",
-      "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+      "description": "Erweiterung bestehender Website um externes Blog-Modul auf Basis von Next.js und Sanity.io.",
+      "link": "https://blog-nextjs-sanity-samtpfoten.vercel.app/"
+    },
+    {
+      "title": "API, Leaflet.js",
+      "image": "/workimages/woistgurki_for_portfolio.png",
+      "year": 2022,
+      "category": "Backend",
+      "description": "Abfrage einer Location-API und Darstellung der Daten mithilfe von Leaflet.js.",
+      "link": "https://wo-ist-gurki-vercel.vercel.app/"
+    },
+    {
+      "title": "Website, Tailwind",
+      "image": "/workimages/tero3_for_portfolio.png",
+      "year": 2022,
+      "category": "tailwindcss",
+      "description": "Komplette Portfolio-Website mit tailwindcss. Darkmode.",
+      "link": "https://tero3-website.vercel.app/index.html"
     }
   ]
 }
