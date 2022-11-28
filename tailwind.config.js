@@ -8,16 +8,5 @@ module.exports = {
     extend: {},
   },
   plugins: [require('@tailwindcss/typography')],
-  theme: {
-    colors: {
-      transparent: 'transparent',
-      current: 'currentColor',
-      'white': '#ffffff',
-      'myblue': {
-        100: '#209CEE',
-        
-      },
-      // ...
-    },
-  },
+ 
 };

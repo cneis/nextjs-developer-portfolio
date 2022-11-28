@@ -1,11 +1,11 @@
 ---
-title: 'Blog post two'
-description: 'A short description about this post'
+title: 'Blog post: Dynamische Menüs'
+description: 'Menüs dynamisch gebaut'
 image: /images/post-1.jpg
-date: '2021-09-21'
+date: '2022-11-28'
 tags: 
-    - tag1
-    - tag2
+    - Javascript
+    - 
 ---
 
 This is the very first blog post

@@ -1,8 +1,8 @@
 import Link from "next/link";
-import {useRouter} from "next/router";
+
 
 export default function Header() {
-    const router = useRouter();
+   
     const routes = ['Blog', 'Work', 'Contact'];
 
     return (
@@ -12,13 +12,16 @@ export default function Header() {
             </Link>
             <nav>
                 <ul className='flex gap-6 font-medium'>
-                    {routes.map(route => {
+                
+
+                {routes.map(route => {
                         return (
-                            <li key={route} className={`hover:underline ${router.pathname === `/${route.toLowerCase()}` && 'text-red-400'}`}>
-                                <Link href={`${route.toLowerCase()}`}>{route}</Link>
+                            <li key={route} className={`hover:underline `}>
+                                <Link href={`/${route.toLowerCase()}`}>{route}</Link>
                             </li>
                         )
-                    })}
+                })}
+
                 </ul>
             </nav>
         </header>

@@ -10,13 +10,13 @@ export default function Work({item}) {
             <div>
                 <h3 className='text-2xl mb-2 font-medium'>{item.title}</h3>
                 <span className='text-gray-600 my-4 block'>
-                    <time className='px-2 py-1.5 mt-4 mr-4 rounded-xl border-solid border-myblue-100 border-2'>
+                    <time className='px-2 py-1.5 mt-4 mr-4 rounded-xl border-solid border-sky-500 border-2'>
                         {item.year}
                     </time>
                     Kategorie: {item.category}
                 </span>
                 <p>{item.description}</p>
-                <button className='bg-myblue-100 text-white px-5 py-1.5 mt-4 rounded drop-shadow-md hover:drop-shadow-xl duration-700 hover:scale-110'>
+                <button className='bg-sky-500 text-white px-5 py-1.5 mt-4 rounded drop-shadow-md hover:drop-shadow-xl duration-700 hover:scale-110'>
                     <Link href={`${item.link}`}>
                         <a target="_blank">Show me</a></Link>
                 </button>

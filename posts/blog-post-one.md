@@ -1,11 +1,11 @@
 ---
-title: 'Blog post one'
-description: 'A short description about this post'
+title: 'Blog post: Page speed'
+description: 'The speed of React / Next'
 image: /images/post-1.jpg
-date: '2021-09-22'
+date: '2022-11-28'
 tags: 
-    - tag1
-    - tag2
+    - React
+    - Next
 ---
 
 This is the very first blog post
