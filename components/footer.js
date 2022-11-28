@@ -1,10 +1,16 @@
 import Link from "next/link";
+import Image from 'next/image'
 
 export default function Footer() {
     return (
         <footer className='container mx-auto flex justify-center flex-col items-center h-60 gap-10'>
-            <Link href='/'>
-                <img src="/logo.png" width="32" height="32" alt="logo" className="cursor-pointer hover:scale-110 duration-700"/>
+             <Link href='/'>
+                <Image 
+                    src="/logo.png" 
+                    width="32" 
+                    height="32" 
+                    alt="logo" 
+                    className="cursor-pointer hover:scale-105 duration-700 rounded-md"/>
             </Link>
             <nav>
                 <ul className='flex gap-6'>
