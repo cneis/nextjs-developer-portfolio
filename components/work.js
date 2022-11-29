@@ -11,7 +11,7 @@ export default function Work({item}) {
                             </a></Link>
                
             </div>
-            <div>
+            <div className="md:max-w-[60%]">
                 <h3 className='text-2xl mb-2 font-medium'>{item.title}</h3>
                 <span className='text-gray-600 my-4 block'>
                     <time className='px-2 py-1.5 mt-4 mr-4 rounded-xl border-solid border-sky-500 border-2'>

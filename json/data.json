@@ -5,7 +5,7 @@
       "image": "/workimages/creditcard_for_portfolio.png",
       "year": 2022,
       "category": "CSS",
-      "description": "Pure HTML / CSS. Schöner 3d-Hover-Effekt.",
+      "description": "HTML / CSS / Javascript. Schöne Hover-Animation für Rotation zur Rückseite.",
       "link": "https://css-creditcard.vercel.app/"
     },
     {
@@ -25,11 +25,11 @@
       "link": "https://wo-ist-gurki-vercel.vercel.app/"
     },
     {
-      "title": "Website, Tailwind",
-      "image": "/workimages/tero3_for_portfolio.png",
+      "title": "Website, Flowbite",
+      "image": "/workimages/tero3_for_portfolio.svg",
       "year": 2022,
-      "category": "tailwindcss",
-      "description": "Komplette Portfolio-Website mit tailwindcss. Darkmode.",
+      "category": "Flowbite",
+      "description": "HTML. Komplette Portfolio-Website mit Flowbite-Komponenten erstellt. Darkmode.",
       "link": "https://tero3-website.vercel.app/index.html"
     }
   ]

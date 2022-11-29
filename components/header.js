@@ -25,7 +25,7 @@ export default function Header() {
                 {routes.map(route => {
                         return (
                             <li key={route} className={`hover:underline`}>
-                                <Link href={`/${route.toLowerCase()}`}><span className="font-medium">{route}</span></Link>
+                                <Link href={`/${route.toLowerCase()}`}><span className="cursor-pointer font-medium">{route}</span></Link>
                             </li>
                         )
                 })}
