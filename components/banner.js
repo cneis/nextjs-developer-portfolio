@@ -7,60 +7,70 @@ export default function Banner() {
             <div className='slider-container'>
                 <div className="slider-track">
                     {/* erste */}
+                    
+                    
                     <div className="slide">
-                        <Image src="/logos/flowbitelogo.jpg" height='100px' width='250px' alt='logo'/>
+                        <Image src="/logos/logo_react_2.png" height='100px' width='250px' alt='logo' />
                     </div>
                     <div className="slide">
-                        <Image src="/logos/github.png" height='100px' width='150px' alt='logo' />
+                        <Image src="/logos/logo_css.png" height='100px' width='250px' alt='logo' />
                     </div>
                     <div className="slide">
-                        <Image src="/logos/sql.svg" height='100px' width='250px' alt='logo' />
+                        <Image src="/logos/logo_html.png" height='100px' width='250px' alt='logo' />
                     </div>
                     <div className="slide">
-                        <Image src="/logos/react.svg" height='100px' width='250px' alt='logo' />
+                        <Image src="/logos/logo_javascript.png" height='100px' width='250px' alt='logo' />
                     </div>
                     <div className="slide">
-                        <Image src="/logos/CSS3_logo.svg" height='100px' width='250px' alt='logo' />
+                        <Image src="/logos/logo_nextjs.png" height='100px' width='250px' alt='logo' />
                     </div>
                     <div className="slide">
-                        <Image src="/logos/html_logo.svg" height='100px' width='250px' alt='logo' />
+                        <Image src="/logos/logo_flowbite.png" height='100px' width='250px' alt='logo'/>
                     </div>
                     <div className="slide">
-                        <Image src="/logos/mongodb.png" height='100px' width='150px' alt='logo' />
+                        <Image src="/logos/logo_github.png" height='100px' width='250px' alt='logo' />
                     </div>
                     <div className="slide">
-                        <Image src="/logos/sanity_logo.svg" height='100px' width='250px' alt='logo' />
+                        <Image src="/logos/logo_mongodb.png" height='100px' width='250px' alt='logo' />
                     </div>
                     <div className="slide">
-                        <Image src="/logos/next_logo.svg" height='100px' width='250px' alt='logo' />
+                        <Image src="/logos/logo_sanity.png" height='100px' width='250px' alt='logo' />
                     </div>
-                    {/* erste */}
+                    
                     <div className="slide">
-                        <Image src="/logos/flowbitelogo.jpg" height='100px' width='250px' alt='logo'/>
+                        <Image src="/logos/logo_sql.png" height='100px' width='250px' alt='logo' />
                     </div>
+                    {/* zweite */}
                     <div className="slide">
-                        <Image src="/logos/github.png" height='100px' width='150px' alt='logo' />
-                    </div>
-                    <div className="slide">
-                        <Image src="/logos/sql.svg" height='100px' width='250px' alt='logo' />
+                        <Image src="/logos/logo_react_2.png" height='100px' width='250px' alt='logo' />
                     </div>
                     <div className="slide">
-                        <Image src="/logos/react.svg" height='100px' width='250px' alt='logo' />
+                        <Image src="/logos/logo_css.png" height='100px' width='250px' alt='logo' />
                     </div>
                     <div className="slide">
-                        <Image src="/logos/CSS3_logo.svg" height='100px' width='250px' alt='logo' />
+                        <Image src="/logos/logo_html.png" height='100px' width='250px' alt='logo' />
                     </div>
                     <div className="slide">
-                        <Image src="/logos/html_logo.svg" height='100px' width='250px' alt='logo' />
+                        <Image src="/logos/logo_javascript.png" height='100px' width='250px' alt='logo' />
                     </div>
                     <div className="slide">
-                        <Image src="/logos/mongodb.png" height='100px' width='150px' alt='logo' />
+                        <Image src="/logos/logo_nextjs.png" height='100px' width='250px' alt='logo' />
                     </div>
                     <div className="slide">
-                        <Image src="/logos/sanity_logo.svg" height='100px' width='250px' alt='logo' />
+                        <Image src="/logos/logo_flowbite.png" height='100px' width='250px' alt='logo'/>
                     </div>
                     <div className="slide">
-                        <Image src="/logos/next_logo.svg" height='100px' width='250px' alt='logo' />
+                        <Image src="/logos/logo_github.png" height='100px' width='250px' alt='logo' />
+                    </div>
+                    <div className="slide">
+                        <Image src="/logos/logo_mongodb.png" height='100px' width='250px' alt='logo' />
+                    </div>
+                    <div className="slide">
+                        <Image src="/logos/logo_sanity.png" height='100px' width='250px' alt='logo' />
+                    </div>
+                    
+                    <div className="slide">
+                        <Image src="/logos/logo_sql.png" height='100px' width='250px' alt='logo' />
                     </div>
                 </div>
                
