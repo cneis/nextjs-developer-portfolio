@@ -1,6 +1,6 @@
 ---
 title: 'Testing: Verschiedende Browser'
-description: 'Menüs dynamisch gebaut'
+description: 'Teste Dein Produkt auf den gängigen Browsern'
 image: /images/post-1.jpg
 date: '2022-11-28'
 tags: 
