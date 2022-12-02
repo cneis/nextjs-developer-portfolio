@@ -16,8 +16,11 @@ export default function WorkPage({work}) {
     return (
         <div>
             <Head>
-                <title>Christophers Arbeit</title>
-                <meta name="description" content="Meine letzten Projekte" />
+                <title>Christopher Neis - Meine Arbeit</title>
+                <meta name="description" content="Übersicht über meine letzten Projekte" />
+                <meta name="robots" content="index, follow>" />
+                <meta name="viewport" content='width=device-width,initial-scale=1' />
+                <meta charSet='UTF-8' />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
             <section className='px-6'>

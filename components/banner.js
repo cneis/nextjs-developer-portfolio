@@ -40,6 +40,9 @@ export default function Banner() {
                     <div className="slide">
                         <Image src="/logos/logo_sql.png" height='100px' width='250px' alt='logo' />
                     </div>
+                    <div className="slide">
+                        <Image src="/logos/logo_figma.png" height='100px' width='250px' alt='logo' />
+                    </div>
                     {/* zweite */}
                     <div className="slide">
                         <Image src="/logos/logo_react_2.png" height='100px' width='250px' alt='logo' />
@@ -71,6 +74,9 @@ export default function Banner() {
                     
                     <div className="slide">
                         <Image src="/logos/logo_sql.png" height='100px' width='250px' alt='logo' />
+                    </div>
+                    <div className="slide">
+                        <Image src="/logos/logo_figma.png" height='100px' width='250px' alt='logo' />
                     </div>
                 </div>
                
