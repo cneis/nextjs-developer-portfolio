@@ -24,6 +24,10 @@ export default function Work({item}) {
                     <Link href={`${item.link}`}>
                         <a target="_blank">Show me</a></Link>
                 </button>
+                <button className='bg-white border-2 border-sky-500 inline-block ml-3 text-sky-500 px-5 py-1.5 mt-4 rounded drop-shadow-md hover:drop-shadow-xl duration-700 hover:scale-110'>
+                    <Link href={`${item.link2}`}>
+                        <a target="_blank">Code</a></Link>
+                </button>
             </div>
         </article>
     );
