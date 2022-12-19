@@ -35,6 +35,15 @@
       "description": "HTML. Komplette Portfolio-Website mit Flowbite-Komponenten erstellt. Darkmode.",
       "link": "https://tero3-website.vercel.app/index.html",
       "link2": "https://github.com/cneis/tero3_website"
+    },
+    {
+      "title": "Figma, Webflow",
+      "image": "/workimages/buynfts.png",
+      "year": 2022,
+      "category": "Design, nocode",
+      "description": "Design in Figma, Umsetzung in Webflow. Mit Loading Animation",
+      "link": "https://flux-tut-figma-to-webflow-nft.webflow.io/",
+      "link2": "https://flux-tut-figma-to-webflow-nft.webflow.io/"
     }
   ]
 }
