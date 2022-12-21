@@ -6,7 +6,7 @@ export default function IntroHeader() {
         <header className='px-6 py-14'>
             <div className='max-w-4xl mx-auto flex gap-14 items-center flex-col-reverse md:flex-row drop-shadow-md '>
                 <div>
-                    <h1 className='text-3xl font-bold mb-6'>Ich bin Christopher, <br />Web Developer</h1>
+                    <h1 className='text-3xl font-bold mb-6'>Ich bin Christopher, <br />Software Developer</h1>
                     <p className='text-lg mb-6'>Du brauchst eine Landing Page, Portfolio-Seite, einen Blog? <br />
                     Du brauchst Wordpress-Unterstützung, oder möchtest eine Website in html und css gebaut haben? <br />
                     Oder Du möchtest Dein Projekt performant in React umgesetzt haben?</p>
