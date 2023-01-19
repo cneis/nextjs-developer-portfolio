@@ -44,6 +44,14 @@
       "description": "Design in Figma, Umsetzung in Webflow. Mit Loading Animation",
       "link": "https://flux-tut-figma-to-webflow-nft.webflow.io/",
       "link2": "https://flux-tut-figma-to-webflow-nft.webflow.io/"
+    },
+    {
+      "title": "Figma, ChatGPT, Midjourney",
+      "image": "/workimages/skytours.png",
+      "year": 2023,
+      "category": "Design, AI content generation",
+      "description": "Design in Figma, Hero Image und Texte sind AI-generiert",
+      "link": "https://www.figma.com/file/HvGUhUOZ4b7OKZPNt5tHBk/skytours?node-id=0%3A1&t=685dr0NM19lNyVtr-1"
     }
   ]
 }
